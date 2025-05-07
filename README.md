@@ -1,35 +1,12 @@
-# Portfólio de Lucas Rogério Correia Codogno
+# React + Vite
 
-## 👨‍💻 Desenvolvedor Full Stack
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Bem-vindo ao meu portfólio profissional! Sou um desenvolvedor com experiência consolidada em tecnologias web modernas, incluindo React.js, Next.js, Node.js, TypeScript e Firebase.
+Currently, two official plugins are available:
 
-### 🚀 Tecnologias & Habilidades
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- **Frontend:** React.js, Next.js, TypeScript, Zustand, HTML5/CSS3
-- **Backend:** Node.js, Socket.io, APIs RESTful, Integração de sistemas
-- **Banco de Dados & DevOps:** SQL Server, Firebase, Git
+## Expanding the ESLint configuration
 
-### 📂 O que você encontrará neste repositório
-
-Este portfólio contém projetos que demonstram minhas habilidades técnicas e abordagem para resolução de problemas. Cada projeto inclui documentação detalhada, tecnologias utilizadas e uma explicação de desafios superados durante o desenvolvimento.
-
-### 🔍 Experiência Profissional
-
-Atualmente trabalho como Técnico de Campo na Proxxi - IBM Brasil, anteriormente atuei como Desenvolvedor de Software na Mundial Editora por 5 anos, onde desenvolvi sistemas web robustos e eficientes.
-
-### 🎓 Formação & Certificações
-
-- Cursando Engenharia de Software (3º ano)
-- Certificação Google Cloud Platform
-- Certificações em Node.js, React.js e Next.js
-- Certificação em Cibersegurança - IBM
-
-### 📫 Contato
-
-- LinkedIn: [lucas-codogno-591157180](https://www.linkedin.com/in/lucas-codogno-591157180)
-- Email: lucas.codogno@ibm.com
-
----
-
-*Este portfólio foi desenvolvido com React + Vite e Tailwind CSS, demonstrando minha capacidade de criar interfaces modernas e responsivas.*
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
